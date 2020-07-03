@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    padding: 3vw 3%;
+    background-color: black;
+}
